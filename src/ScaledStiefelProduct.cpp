@@ -100,4 +100,4 @@ ScaledStiefelProduct::random_sample(const std::default_random_engine::result_typ
   return projectToManifold(X.R, X.s, Vector::Zero(static_cast<Index>(n_)));
 }
 
-} // namespace CORA
+} // namespace CORA 88
