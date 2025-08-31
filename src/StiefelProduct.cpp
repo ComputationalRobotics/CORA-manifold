@@ -2,7 +2,7 @@
 #include <Eigen/QR>
 #include <Eigen/SVD>
 
-#include "CORA/StiefelProduct.h"
+#include "StiefelProduct.h"
 namespace CORA {
 
 Matrix StiefelProduct::projectToManifold(const Matrix &A) const {

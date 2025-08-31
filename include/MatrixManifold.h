@@ -12,7 +12,7 @@
  */
 
 #pragma once
-#include <CORA/CORA_types.h>
+#include <CORA_types.h>
 #include <Eigen/Dense>
 
 namespace CORA {
